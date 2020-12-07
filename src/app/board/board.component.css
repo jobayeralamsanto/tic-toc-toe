@@ -1,0 +1,25 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+    margin-left: 500px;
+}
+h1{
+    margin-left: 500px;
+
+}
+h2{
+    margin-left: 500px;
+
+}
+button{
+    margin-left: 500px;
+    background-color:rgb(43, 192, 142);
+    padding:10px 10px 5px 5px;
+
+}
+  
+app-square {
+    border: 1px gray solid;
+    height: 200px;
+}
